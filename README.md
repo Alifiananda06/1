@@ -35,21 +35,3 @@ Berikut adalah hasil running program untuk Menghitung Luas Lingkaran dan Kelilin
 
 ![gambar2](ss/ss%203.png)
 
-
-## FLOWCHART MENGHITUNG LUAS DAN KELILING LINGKARAN
-
-
-![gambar3](ss/ss%201.png)
-
-
-Penjelasam Algoritma Menghitung Luas dan Keliling Lingkaran
-
-1. Mulai
-
-2. Masukan jari-jari
-
-3. Proses hitung Luas dan Keliling Lingkaran
-
-4. Tampilkan Luas dan Keliling Lingkaran
-
-5. Selesai
